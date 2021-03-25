@@ -3,7 +3,7 @@ layout: cv
 title: Clark Atkins's Resume
 ---
 # Clark Atkins
-Programmer
+Python Developer
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -33,14 +33,12 @@ __Pacific Northwest National Lab__, Richland, WA
 - Used R and Visual Sample Plan to establish new sampling algorithms
 - Published a journal article in Environmental Quality.
 
-### Data Science Lead
+### Job Shadowing
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`December 17, 2020`
+__Avercast__, Software Engineer
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Shadowed my roommate who develops financial forecasting software.
 
 `September 2027 - April 2028`
 __Good2Go__, Consultant
@@ -49,14 +47,15 @@ __Good2Go__, Consultant
 - Established standardized SQL calls and connections for PowerBI dashboards
 - Found over $35k in waste and saved over 200 annual hours of store quality control work 
 
-### Data Science Consulting Team
+### Sales
 
-`January 2027 - April 2027`
-__Imagine Learning__
+`Summer 2018 & Summer 2019`
+__Aptive Environmental__
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+- Brought in $100k+ of pest control revenue during my 2 summers through door-to-door sales.
+- Number of contracts sold totaled to 271 both summers combined.
+- First summer in Houston, out of 43 sales reps on my team that started out, I finished in the 76th percentile as far as number of contracts sold.
+- Second summer in Fort Worth, out of 15 sales reps that started, I finished fourth on the team as far as number of contracts sold, and out of those that were not team leads, 2nd out of 13
 
 `April 2027 - July 2027`
 __Pinnacle Management Group__, 
@@ -68,12 +67,18 @@ __Pinnacle Management Group__,
 
 ## Service and Work History
 
+`2018`
+__Math Tutor__, BYU-Idaho
+
+`2018`
+__Maintenance Worker__, Horrocks Ready Mix
+
 `2025-2027`
 __Math Tutor__, LDSBC
 
 
 `2023-2025`
-__Service Missionary__, South Africa
+__Service Missionary__, Mexico
 
 
 
