@@ -43,7 +43,7 @@ __Avercast__, Software Engineer
 `September 2027 - April 2028`
 __Good2Go__, Consultant
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
+- Called and surveyed people whose phone numbers were randomly generated and selected
 - Established standardized SQL calls and connections for PowerBI dashboards
 - Found over $35k in waste and saved over 200 annual hours of store quality control work 
 
