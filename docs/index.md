@@ -29,11 +29,6 @@ __Avercast__, Software Engineer
 - While it was unpaid and therefore was not allowed to modify the software, I was always with the team
 - participated in international meetings with quality assurance crew from India
 
-### Job Shadowing
-
-`December 17, 2020`
-__Avercast__, Software Engineer
-- Shadowed my roommate who develops financial forecasting software.
 
 ### Sales
 
@@ -50,13 +45,15 @@ __Aptive Environmental__
 `2018`
 __Math Tutor__, BYU-Idaho
 
-`2018`
+`2020-2021`
 __Maintenance Worker__, Horrocks Ready Mix
+- operated machinery such as loaders and mixing trucks, was given responsibilities to make sure that equipment was running properly.
+- occasionally worked long hours and had deadlines to meet.
+
 
 `2015-2017`
 __Service Missionary__, Mexico
-
-
+- 
 
 <!-- ### Footer
 
