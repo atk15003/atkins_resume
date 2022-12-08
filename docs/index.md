@@ -3,7 +3,7 @@ layout: cv
 title: Clark Atkins's Resume
 ---
 # Clark Atkins
-Java and Python Developer
+Computer Progammer
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -16,7 +16,7 @@ Java and Python Developer
 
 ## Education
 
-`Expected 2022`
+`2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 
